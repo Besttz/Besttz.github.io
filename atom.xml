@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://besttz.github.io</id>
+    <id>http://tommy.nz</id>
     <title>Tommy</title>
-    <updated>2019-05-26T16:14:53.139Z</updated>
+    <updated>2019-05-26T16:17:50.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://besttz.github.io"/>
-    <link rel="self" href="https://besttz.github.io/atom.xml"/>
+    <link rel="alternate" href="http://tommy.nz"/>
+    <link rel="self" href="http://tommy.nz/atom.xml"/>
     <subtitle>TOMMY.NZ</subtitle>
-    <logo>https://besttz.github.io/images/avatar.png</logo>
-    <icon>https://besttz.github.io/favicon.ico</icon>
+    <logo>http://tommy.nz/images/avatar.png</logo>
+    <icon>http://tommy.nz/favicon.ico</icon>
     <rights>All rights reserved 2019, Tommy</rights>
     <entry>
         <title type="html"><![CDATA[TOMMYS.NZ - 临时主页 임시 홈페이지 index.html]]></title>
-        <id>https://besttz.github.io/post/home</id>
-        <link href="https://besttz.github.io/post/home">
+        <id>http://tommy.nz/post/home</id>
+        <link href="http://tommy.nz/post/home">
         </link>
         <updated>2019-05-26T15:48:07.000Z</updated>
         <summary type="html"><![CDATA[<p>欢迎访问 临时主页。<br>
