@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://tommy.nz</id>
     <title>Tommy</title>
-    <updated>2019-06-22T16:53:58.452Z</updated>
+    <updated>2019-11-15T09:13:09.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://tommy.nz"/>
     <link rel="self" href="http://tommy.nz/atom.xml"/>
@@ -11,18 +11,18 @@
     <icon>http://tommy.nz/favicon.ico</icon>
     <rights>All rights reserved 2019, Tommy</rights>
     <entry>
-        <title type="html"><![CDATA[嗨！Tommy.nz!]]></title>
+        <title type="html"><![CDATA[Hi! Tommy.nz!]]></title>
         <id>http://tommy.nz/post/home</id>
         <link href="http://tommy.nz/post/home">
         </link>
         <updated>2019-06-10T08:44:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>欢迎 환영합니다! Welcome to Tommy.nz! <br>
-使用导航或点击下方按钮以访问更多页面。<br>
-Use the navigator or menu for more pages.</p>
+        <summary type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br>
+Use the navigator or menu for more pages.<br>
+使用导航栏或点击下方按钮以访问更多页面。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>欢迎 환영합니다! Welcome to Tommy.nz! <br>
-使用导航或点击下方按钮以访问更多页面。<br>
-Use the navigator or menu for more pages.</p>
+        <content type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br>
+Use the navigator or menu for more pages.<br>
+使用导航栏或点击下方按钮以访问更多页面。</p>
 <!-- more -->
 <p>您可以访问 <a href="http://tommys.cn">Tommys.cn</a> 及 <a href="http://besttz.com">Besttz.com</a> 获取现有资讯。</p>
 ]]></content>
@@ -33,9 +33,11 @@ Use the navigator or menu for more pages.</p>
         <link href="http://tommy.nz/post/besttz">
         </link>
         <updated>2019-06-10T08:43:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>Tommy 的从简生活日记</p>
+        <summary type="html"><![CDATA[<p>Life Recorded in Literature
+Tommy 的从简生活日记</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Tommy 的从简生活日记</p>
+        <content type="html"><![CDATA[<p>Life Recorded in Literature
+Tommy 的从简生活日记</p>
 <!-- more -->
 ]]></content>
     </entry>
@@ -45,11 +47,11 @@ Use the navigator or menu for more pages.</p>
         <link href="http://tommy.nz/post/tommyscn">
         </link>
         <updated>2019-06-10T08:42:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>旅行 美食 以及程序开发 <br>
-Tommy 的个人博客站点</p>
+        <summary type="html"><![CDATA[<p>Tommy's Blog Site<br>
+旅行 美食 以及程序开发</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>旅行 美食 以及程序开发 <br>
-Tommy 的个人博客站点</p>
+        <content type="html"><![CDATA[<p>Tommy's Blog Site<br>
+旅行 美食 以及程序开发</p>
 <!-- more -->
 ]]></content>
     </entry>
