@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://tommy.nz</id>
+    <id>https://tommy.nz</id>
     <title>Tommy</title>
-    <updated>2019-11-15T09:13:09.040Z</updated>
+    <updated>2020-08-06T09:05:42.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://tommy.nz"/>
-    <link rel="self" href="http://tommy.nz/atom.xml"/>
+    <link rel="alternate" href="https://tommy.nz"/>
+    <link rel="self" href="https://tommy.nz/atom.xml"/>
     <subtitle>Besttz | Tommys | Tommy.nz</subtitle>
-    <logo>http://tommy.nz/images/avatar.png</logo>
-    <icon>http://tommy.nz/favicon.ico</icon>
-    <rights>All rights reserved 2019, Tommy</rights>
+    <logo>https://tommy.nz/images/avatar.png</logo>
+    <icon>https://tommy.nz/favicon.ico</icon>
+    <rights>All rights reserved 2020, Tommy</rights>
     <entry>
         <title type="html"><![CDATA[Hi! Tommy.nz!]]></title>
-        <id>http://tommy.nz/post/home</id>
-        <link href="http://tommy.nz/post/home">
+        <id>https://tommy.nz/post/home/</id>
+        <link href="https://tommy.nz/post/home/">
         </link>
         <updated>2019-06-10T08:44:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br>
-Use the navigator or menu for more pages.<br>
+        <summary type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br><br>
+Use the navigator or menu for more pages.<br><br>
 使用导航栏或点击下方按钮以访问更多页面。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br>
-Use the navigator or menu for more pages.<br>
+        <content type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br><br>
+Use the navigator or menu for more pages.<br><br>
 使用导航栏或点击下方按钮以访问更多页面。</p>
 <!-- more -->
 <p>您可以访问 <a href="http://tommys.cn">Tommys.cn</a> 及 <a href="http://besttz.com">Besttz.com</a> 获取现有资讯。</p>
@@ -29,28 +29,28 @@ Use the navigator or menu for more pages.<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[我所理解的生活 | Besttz.com]]></title>
-        <id>http://tommy.nz/post/besttz</id>
-        <link href="http://tommy.nz/post/besttz">
+        <id>https://tommy.nz/post/besttz/</id>
+        <link href="https://tommy.nz/post/besttz/">
         </link>
         <updated>2019-06-10T08:43:16.000Z</updated>
-        <summary type="html"><![CDATA[<p>Life Recorded in Literature
+        <summary type="html"><![CDATA[<p>Life Recorded in Literature<br>
 Tommy 的从简生活日记</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Life Recorded in Literature
+        <content type="html"><![CDATA[<p>Life Recorded in Literature<br>
 Tommy 的从简生活日记</p>
 <!-- more -->
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tommy's Neverland | Tommys.cn]]></title>
-        <id>http://tommy.nz/post/tommyscn</id>
-        <link href="http://tommy.nz/post/tommyscn">
+        <id>https://tommy.nz/post/tommyscn/</id>
+        <link href="https://tommy.nz/post/tommyscn/">
         </link>
         <updated>2019-06-10T08:42:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>Tommy's Blog Site<br>
+        <summary type="html"><![CDATA[<p>Tommy's Blog Site<br><br>
 旅行 美食 以及程序开发</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>Tommy's Blog Site<br>
+        <content type="html"><![CDATA[<p>Tommy's Blog Site<br><br>
 旅行 美食 以及程序开发</p>
 <!-- more -->
 ]]></content>
