@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://tommy.nz</id>
+    <id>https://tommy.nz</id>
     <title>Tommy</title>
-    <updated>2020-08-06T09:03:57.122Z</updated>
+    <updated>2020-08-06T09:05:42.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://tommy.nz"/>
-    <link rel="self" href="http://tommy.nz/atom.xml"/>
+    <link rel="alternate" href="https://tommy.nz"/>
+    <link rel="self" href="https://tommy.nz/atom.xml"/>
     <subtitle>Besttz | Tommys | Tommy.nz</subtitle>
-    <logo>http://tommy.nz/images/avatar.png</logo>
-    <icon>http://tommy.nz/favicon.ico</icon>
+    <logo>https://tommy.nz/images/avatar.png</logo>
+    <icon>https://tommy.nz/favicon.ico</icon>
     <rights>All rights reserved 2020, Tommy</rights>
     <entry>
         <title type="html"><![CDATA[Hi! Tommy.nz!]]></title>
-        <id>http://tommy.nz/post/home/</id>
-        <link href="http://tommy.nz/post/home/">
+        <id>https://tommy.nz/post/home/</id>
+        <link href="https://tommy.nz/post/home/">
         </link>
         <updated>2019-06-10T08:44:08.000Z</updated>
         <summary type="html"><![CDATA[<p>Welcome to Tommy.nz! 欢迎 환영합니다! <br><br>
@@ -29,8 +29,8 @@ Use the navigator or menu for more pages.<br><br>
     </entry>
     <entry>
         <title type="html"><![CDATA[我所理解的生活 | Besttz.com]]></title>
-        <id>http://tommy.nz/post/besttz/</id>
-        <link href="http://tommy.nz/post/besttz/">
+        <id>https://tommy.nz/post/besttz/</id>
+        <link href="https://tommy.nz/post/besttz/">
         </link>
         <updated>2019-06-10T08:43:16.000Z</updated>
         <summary type="html"><![CDATA[<p>Life Recorded in Literature<br>
@@ -43,8 +43,8 @@ Tommy 的从简生活日记</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tommy's Neverland | Tommys.cn]]></title>
-        <id>http://tommy.nz/post/tommyscn/</id>
-        <link href="http://tommy.nz/post/tommyscn/">
+        <id>https://tommy.nz/post/tommyscn/</id>
+        <link href="https://tommy.nz/post/tommyscn/">
         </link>
         <updated>2019-06-10T08:42:41.000Z</updated>
         <summary type="html"><![CDATA[<p>Tommy's Blog Site<br><br>
